@@ -4,7 +4,7 @@
   "description": "",
   "main": "sdpController.js",
   "scripts": {
-    "start" : "node ./sdpController.js"
+    "start" : "node ./sdpController.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
