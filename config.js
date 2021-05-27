@@ -2,7 +2,7 @@ module.exports = {
     // print debug statements
     'debug': false,
 
-	'serverPort': 5000,
+	'serverPort': process.env.PORT || 80,
 	'maxConnections': 100,
 
 	// milliseconds, 0 indicates no timeout
