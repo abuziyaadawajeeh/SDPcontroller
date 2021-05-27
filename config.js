@@ -59,7 +59,7 @@ module.exports = {
 	// set it to a null string using '' (that's 2 single 
 	// quotes with no spaces between)
     'dbPassword': '019d3f56',
-    'dbName': 'sdp',
+    'dbName': 'heroku_b0dabb6f5d92a54',
 
     // if any of these are exceeded, the controller 
     // disconnects from the client
