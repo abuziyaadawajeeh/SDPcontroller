@@ -51,14 +51,14 @@ module.exports = {
 	'hmacKeyLen': 128,
 
 	// database options
-	'dbHost': 'localhost',
-	'dbUser': 'sdp_controller',
+	'dbHost': 'us-cdbr-east-03.cleardb.com',
+	'dbUser': 'bef5a8932e6326',
 	'dbPasswordRequired': true,
 
 	// to be prompted for a password, delete this field or
 	// set it to a null string using '' (that's 2 single 
 	// quotes with no spaces between)
-    'dbPassword': 'password',
+    'dbPassword': '019d3f56',
     'dbName': 'sdp',
 
     // if any of these are exceeded, the controller 
